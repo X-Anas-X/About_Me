@@ -1,0 +1,109 @@
+
+
+        body {
+            
+            font-family: 'Raleway' , sans-serif;
+            font-size: larger;
+    
+            line-height: 25px;
+
+            word-spacing: 1px;
+
+        height: 1000px
+    }
+   
+    
+    
+    
+    
+    
+    nav ul li{
+        
+        color: coral;
+        text-decoration: none;
+        display: inline-block;
+        padding: 0 15px;
+        padding-right: 50px
+    }
+    nav ul li a{
+        color: crimson;
+        text-decoration: none;
+        padding: 0 10px;
+    }
+    nav ul li a:hover{
+        color: rgb(105, 22, 112);
+    }
+    .logo{
+        float: left;
+    }
+    .my-nav{
+        float: right;
+    }
+    
+    footer{
+        background: rgb(173, 89, 100);
+
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-right: 23px;
+        margin-top: 90px;
+        font-size: small;
+
+    }
+    main {
+        text-align: center;
+
+        
+        padding-bottom: 300px;
+         padding-top: 10px;
+         margin-top: 16px;
+    }
+    main h2 {
+        padding-bottom: 50px;
+        font-size: x-large;
+        font-style: bold;
+        color: black;
+        font-family: sans-serif;
+    }
+    }
+    ul {
+        padding-left: 50px
+
+    }
+    main p {
+        font-size: large;
+    }
+
+
+    header.myheader {
+    background-color: #79acbd;
+color: purple;
+padding: 22px 30px 50px;
+position: sticky;
+top: 0;
+    }
+h1{ 
+    float: left;
+    font-size: xx-large;
+}
+
+#About-Me{
+    background: url(https://c.wallhere.com/photos/f6/17/1920x1080_px_Code_coding_Dark_Humor-736443.jpg!d) ;
+    color:rgb(252, 252, 252);
+    font-size: larger;
+    height: 500px;
+    text-align: center;
+    
+    padding-top: 153px;
+
+s
+
+
+h2 {
+ font-weight: bold;
+  font-size: 34px;
+  padding-bottom: 18px;
+  color: #f7ceff
+
+
+}
